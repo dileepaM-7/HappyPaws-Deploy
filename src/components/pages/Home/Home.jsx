@@ -45,7 +45,7 @@ export const Home = () => {
       <MainContent />
       <div className='text-main'>
         <Title>
-          <span className='welcome_txt'>Welcome... <br /><br /></span>
+          <span className='welcome_txt'>Welcome...HII <br /><br /></span>
           <span className='first_content' >Welcome to a <br /> world of care for </span>
           <span className='second_content'>your <br />beloved pets <br /></span>
           <span className='last_txt'>Discover expert pet care tips and advice to ensure your furry <br />
